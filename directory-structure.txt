@@ -1,0 +1,12 @@
+src/
+  components/
+    Button.js
+    Header.js
+    Footer.js
+  pages/
+    HomePage.js
+    LoginPage.js
+    DashboardPage.js
+  assets/
+    images/
+      kcalc-icon.png
